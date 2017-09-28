@@ -12,13 +12,13 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-    <link rel="stylesheet" href="../node_modules/reveal.js/css/reveal.css">
+    <link rel="stylesheet" href="../template/reveal.js/css/reveal.css">
     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="css/theme.css">
 
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="../node_modules/highlightjs/styles/monokai_sublime.css">
+    <link rel="stylesheet" href="../template/highlightjs/styles/monokai_sublime.css">
     <style type="text/css" media="screen">
       .reveal pre code {
         max-height: 600px;
@@ -29,7 +29,7 @@
       var link = document.createElement( 'link' );
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '../node_modules/reveal.js/css/print/pdf.css' : '../node_modules/reveal.js/css/print/paper.css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '../template/reveal.js/css/print/pdf.css' : '../template/reveal.js/css/print/paper.css';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
   </head>
@@ -47,8 +47,8 @@
       </div>
     </div>
 
-    <script src="../node_modules/reveal.js/lib/js/head.min.js"></script>
-    <script src="../node_modules/reveal.js/js/reveal.js"></script>
+    <script src="../template/reveal.js/lib/js/head.min.js"></script>
+    <script src="../template/reveal.js/js/reveal.js"></script>
 
     <script>
       // Full list of configuration options available at:
@@ -77,12 +77,12 @@
 
         // Optional reveal.js plugins
         dependencies: [
-          { src: '../node_modules/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: '../node_modules/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '../node_modules/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '../node_modules/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: '../node_modules/reveal.js/plugin/zoom-js/zoom.js', async: true },
-          { src: '../node_modules/reveal.js/plugin/notes/notes.js', async: true }
+          { src: '../template/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '../template/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '../template/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '../template/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: '../template/reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: '../template/reveal.js/plugin/notes/notes.js', async: true }
         ]
       });
     </script>
