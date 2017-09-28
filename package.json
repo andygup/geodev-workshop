@@ -1,0 +1,16 @@
+{
+  "name": "arcgis-js-api-workshop",
+  "version": "1.0.0",
+  "description": "Introductory workshop for JS API 4" ,
+  "license": "Apache-2.0",
+  "private": true,
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andygup/geodev-workshop.git"
+  },
+  "dependencies": {
+    "highlightjs": "^9.10.0",
+    "reveal.js": "^3.5.0"
+  }
+}
