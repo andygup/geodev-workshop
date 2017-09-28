@@ -1,24 +1,22 @@
 
+# GeoDev Workshop
 
----
-
-# Presenters
+<br>
+<br>
 
 ### Andy Gup – [@agup](https://twitter.com/agup)
-### René Rubalcava – [@odoenet](https://twitter.com/odoenet)
+### AL Laframboise – [@al_laframboise](https://twitter.com/al_laframboise)
 
 ---
 
 # Agenda
 
-- Introduction to the ArcGIS API 4.x for JavaScript
-- Fundamentals and Patterns
-- Platform Integration
-- Visualizations (2D and 3D)
-- Upcoming Features
-- _Bonus - Custom Builds_
-- JS Framework Integration
-- Questions
+- Goals and objectives
+- Setting up your environment
+- Introduce ArcGIS JS API and ArcGIS Online
+- Lab 1 - Data
+- Lab 2 - Design
+- Lab 3 - Develop
 
 ---
 
