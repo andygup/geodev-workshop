@@ -20,7 +20,25 @@
 
 ---
 
-# Introduction to the ArcGIS API 4.x for JavaScript
+## Goals and Objectives
+
+- Learn basic patterns for using ArcGIS API for JavaScript
+
+---
+
+## Setting up your environment
+
+- Get a free developer subscription => [developers.arcgis.com](https://developers.arcgis.com)
+- Sign up for [jsbin.com](https://jsbin.com) if you want to save your work
+- Activate a Voucher Code for 1000 credits
+
+    * **Code:** DEN1017WK
+    * **Validation time window:** 10/11 - 10/25/17
+    * **Credits Expire:** 3/25/18
+
+---
+
+## Introduction to the ArcGIS API 4.x for JavaScript
 
 - Simplified and consistent API <!-- .element: class="fragment" data-fragment-index="1" -->
 - Write apps in ES6 or TypeScript <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -30,7 +48,7 @@
 
 ---
 
-# Where to begin?
+## Where to begin?
 
 <br>
 
