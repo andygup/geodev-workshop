@@ -23,6 +23,8 @@
 ## Goals and Objectives
 
 - Learn basic patterns for using ArcGIS API for JavaScript
+- Create services and webmaps in ArcGIS Online
+- Consuming services and webmaps in custom JavaScript apps
 
 ---
 
@@ -30,6 +32,7 @@
 
 - Get a free developer subscription => [developers.arcgis.com](https://developers.arcgis.com)
 - Sign up for [jsbin.com](https://jsbin.com) if you want to save your work
+- Nice-to-have: Git and Github
 - Activate a Voucher Code for 1000 credits
 
     * **Code:** DEN1017WK
@@ -57,8 +60,8 @@
 <br>
 
 ```
-<link rel="stylesheet" href="https://js.arcgis.com/4.4/esri/css/main.css">
-<script src="https://js.arcgis.com/4.4/"></script>
+<link rel="stylesheet" href="https://js.arcgis.com/4.5/esri/css/main.css">
+<script src="https://js.arcgis.com/4.5/"></script>
 ```
 
 ---
