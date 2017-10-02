@@ -29,7 +29,6 @@ Creating and importing data interactively is a fast and effective way to prepare
 
 * **Challenge** [Start lab](https://developers.arcgis.com/labs/develop/javascript/create-a-2d-map-with-a-layer/) to add the feature layer to a basemap. Use the feature layer you create above. 
 
-
 ### Create a New Dataset
 [Start lab](https://developers.arcgis.com/labs/data/create-a-new-dataset/) to create an empty layer and then add data.
 
@@ -79,6 +78,19 @@ ArcGIS APIs and SDKs to build applications from templates or from scratch.
 ### Access Private ArcGIS Online Layers
 
 [Start lab](https://developers.arcgis.com/labs/develop/javascript/access-private-layers/) to learn how to work with private data.
+
+### EXTRA CREDIT: Working directly with ArcGIS Online REST Services
+Understanding how to interact with REST APIs, and ArcGIS Online REST Services in particular, is an important aspect of being a geospatial developer.
+Whether you are developing directly against REST Services or simply doing troubleshooting on API, understanding the basics is am important skill.
+
+[Start lab](https://developers.arcgis.com/labs/develop/rest/get-an-access-token/) to learn how to programmatically get an access token.
+
+[Start lab](https://developers.arcgis.com/labs/develop/rest/get-coordinates-for-an-address/) to learn how to convert an address to a latitude/longitude coordinate.
+
+[Start lab](https://developers.arcgis.com/labs/develop/rest/query-a-feature-layer/) to learn how to query a feature layer using the ArcGIS REST API.
+* **Challenge** Review the Query capabilities in [REST API documentation](https://resources.arcgis.com/en/help/arcgis-rest-api/#/Query_Feature_Service_Layer/02r3000000r1000000/) and research the details of how the various parameters work.
+
+[Start lab](https://developers.arcgis.com/labs/develop/rest/add-edit-and-remove-features/) and learn how to add, remove or delete features from a feature service.
 
 ## Data and Terms of Use
 
