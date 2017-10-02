@@ -17,6 +17,7 @@
 - Lab 1 - Data
 - Lab 2 - Design
 - Lab 3 - Develop
+- Wrap-up
 
 ---
 
@@ -41,6 +42,13 @@
 
 ---
 
+## Workshop Repo
+
+<br><br>
+[https://github.com/andygup/geodev-workshop](https://github.com/andygup/geodev-workshop)
+
+---
+
 ## Introduction to the ArcGIS API 4.x for JavaScript
 
 - Simplified and consistent API <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -59,10 +67,15 @@
 
 <br>
 
+
 ```
 <link rel="stylesheet" href="https://js.arcgis.com/4.5/esri/css/main.css">
 <script src="https://js.arcgis.com/4.5/"></script>
 ```
+<br>
+- Guide
+- API Reference
+- Samples!
 
 ---
 
