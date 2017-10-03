@@ -4,7 +4,7 @@ This repository contains a series of short developer labs.
 
 ## Lab 1 - Setting up your environment
 
-1. Sign up for a free** [ArcGIS Developer subscription](https://developers.arcgis.com/en/sign-up/) - Your subscription allows you to download software, register apps, import data, create new services, store maps, perform spatial analysis and more.
+1. Sign up for a free [ArcGIS Developer subscription](https://developers.arcgis.com/en/sign-up/) - Your subscription allows you to download software, register apps, import data, create new services, store maps, perform spatial analysis and more.
 2. Activate your voucher code for 1000 credits. 
     * Log into your Developer Subscription
     * Upper right hand side of page click on you name.
@@ -55,13 +55,13 @@ ArcGIS APIs and SDKs to build applications from templates or from scratch.
 4. Use a Renderer??
 
 5. Coding Challenges
- * Calcite Maps ??? (insert jsbin here, yo)
+  * Calcite Maps ??? (insert jsbin here, yo)
  
- * Use the ArcGIS REST API to [Query a FeatureLayer](https://developers.arcgis.com/labs/develop/rest/query-a-feature-layer/)
+  * Use the ArcGIS REST API to [Query a FeatureLayer](https://developers.arcgis.com/labs/develop/rest/query-a-feature-layer/)
 
- * Use the ArcGIS REST API  to [Add, Edit and Remove Features](https://developers.arcgis.com/labs/develop/rest/add-edit-and-remove-features/)
+  * Use the ArcGIS REST API  to [Add, Edit and Remove Features](https://developers.arcgis.com/labs/develop/rest/add-edit-and-remove-features/)
  
- * Review the Query capabilities in [REST API documentation](https://resources.arcgis.com/en/help/arcgis-rest-api/#/Query_Feature_Service_Layer/02r3000000r1000000/) and research the details of how the various parameters work. 
+  * Review the Query capabilities in [REST API documentation](https://resources.arcgis.com/en/help/arcgis-rest-api/#/Query_Feature_Service_Layer/02r3000000r1000000/) and research the details of how the various parameters work. 
 
 ## Licensing
 Copyright 2017 Esri
