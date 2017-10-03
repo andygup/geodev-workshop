@@ -97,9 +97,16 @@
 
 ---
 
-# Questions
-
-![questions](./images/questions.gif)
-
+## Data
 
 ---
+
+## Design
+
+---
+
+## Develop
+
+---
+
+# Questions?
