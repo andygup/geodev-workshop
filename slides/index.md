@@ -12,11 +12,11 @@
 # Agenda
 
 - Goals and objectives
-- Setting up your environment
-- Introduce ArcGIS JS API and ArcGIS Online
-- Lab 1 - Data
-- Lab 2 - Design
-- Lab 3 - Develop
+- Lab 1 - Setting up your environment
+- Intro to ArcGIS JS API and developers.arcgis.com
+- Lab 2 - Data
+- Lab 3 - Design
+- Lab 4 - Develop
 - Wrap-up
 
 ---
@@ -29,23 +29,13 @@
 
 ---
 
-## Setting up your environment
-
-- Get a free developer subscription => [developers.arcgis.com](https://developers.arcgis.com)
-- Sign up for [jsbin.com](https://jsbin.com) if you want to save your work
-- Nice-to-have: Git and Github
-- Activate a Voucher Code for 1000 credits
-
-    * **Code:** DEN1017WK
-    * **Validation time window:** 10/11 - 10/25/17
-    * **Credits Expire:** 3/25/18
+## Lab 1 - Setting up your environment
+<br><br>
+### [https://github.com/andygup/geodev-workshop](https://github.com/andygup/geodev-workshop#lab-1---setting-up-your-environment)
 
 ---
 
-## Workshop Repo
-
-<br><br>
-[https://github.com/andygup/geodev-workshop](https://github.com/andygup/geodev-workshop)
+## [developers.arcgis.com](https://developers.arcgis.com)
 
 ---
 
