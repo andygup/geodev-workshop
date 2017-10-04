@@ -17,6 +17,11 @@ This repository contains a series of short developer labs.
     Validation time window: 10/11 - 10/25/17
     Credits Expire: 3/25/18
 ````
+
+3. Download and install Slack: [https://slack.com/downloads/](https://slack.com/downloads/)
+    * Sign up for our slack channel: ???
+    * Once you create an account sign into the slack client.
+
 ## Lab 2 - Data
 Creating and importing data interactively is a fast and effective way to prepare data for both prototype and production app development.
 
