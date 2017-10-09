@@ -2,7 +2,7 @@
 
 This repository contains a series of short developer labs. 
 
-## Lab 1 - Setting up your environment
+## Setting up your environment
 
 1. Sign up for a free [ArcGIS Developer subscription](https://developers.arcgis.com/en/sign-up/) - Your subscription allows you to download software, register apps, import data, create new services, store maps, perform spatial analysis and more.
 2. Activate your voucher code for 1000 credits. 
@@ -22,7 +22,7 @@ This repository contains a series of short developer labs.
     * Sign up for our slack channel: ???
     * Once you create an account sign into the slack client.
 
-## Lab 2 - Data
+## Part 1 - Data
 Creating and importing data interactively is a fast and effective way to prepare data for both prototype and production app development.
 
 1. [Import Data](https://developers.arcgis.com/labs/data/import-data/) 
@@ -36,7 +36,7 @@ Creating and importing data interactively is a fast and effective way to prepare
 5. Code Challenge: [Create 2D Map with a Layer](https://developers.arcgis.com/labs/develop/javascript/create-a-2d-map-with-a-layer/)
 
 
-## Lab 3 - Design
+## Part 2 - Design
 Learning to create web maps with great cartography is one of the most important steps to building effective mapping applications. Styling maps interactively can also be huge time-saver in app development.
 
 1. Create a[Web Map in 2D](https://developers.arcgis.com/labs/design/create-a-web-map/) or create a [Web Scene in 3D](https://developers.arcgis.com/labs/design/create-a-web-scene/) 
@@ -47,7 +47,7 @@ Learning to create web maps with great cartography is one of the most important 
  
 4. [Style Layers with Smart Mapping](https://developers.arcgis.com/labs/design/style-your-layers-with-smart-mapping/)
 
-## Lab 4 - Develop
+## Part 3 - Develop
 One of the easiest ways to build an ArcGIS map app is to start with a web map, but you can also use the various
 ArcGIS APIs and SDKs to build applications from templates or from scratch.
 
@@ -55,9 +55,12 @@ ArcGIS APIs and SDKs to build applications from templates or from scratch.
 
 2. [Add a Web Map](https://developers.arcgis.com/labs/develop/javascript/display-a-web-map/)
 
-3. Query a Feature Layer??
+3. [Query a Feature Layer](https://developers.arcgis.com/labs/develop/javascript/query-a-feature-layer/)
 
-4. Use a Renderer??
+4. [Style a Feature Layer](https://developers.arcgis.com/labs/develop/javascript/style-a-feature-layer/)
+
+5. [Configure a Popup](https://developers.arcgis.com/labs/develop/javascript/configure-a-popup/)
+
 
 5. Coding Challenges
   * Calcite Maps ??? (insert jsbin here, yo)
