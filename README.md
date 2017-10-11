@@ -25,11 +25,11 @@ This repository contains a series of short developer labs.
 ## Part 1 - Data
 Creating and importing data interactively is a fast and effective way to prepare data for both prototype and production app development.
 
-1. [Import Data](https://developers.arcgis.com/labs/data/import-data/) 
+1. *[Import Data](https://developers.arcgis.com/labs/data/import-data/) 
 
 2. [Create a New Dataset](https://developers.arcgis.com/labs/data/create-a-new-dataset/)
 
-3. [Explore Layer Data](https://developers.arcgis.com/labs/data/explore-layer-data/) 
+3. *[Explore Layer Data](https://developers.arcgis.com/labs/data/explore-layer-data/) 
 
 4. [Query Layers](https://developers.arcgis.com/labs/data/query-layers/)
 
@@ -39,11 +39,11 @@ Creating and importing data interactively is a fast and effective way to prepare
 ## Part 2 - Design
 Learning to create web maps with great cartography is one of the most important steps to building effective mapping applications. Styling maps interactively can also be huge time-saver in app development.
 
-1. Create a[Web Map in 2D](https://developers.arcgis.com/labs/design/create-a-web-map/) or create a [Web Scene in 3D](https://developers.arcgis.com/labs/design/create-a-web-scene/) 
+1. *Create a [Web Map in 2D](https://developers.arcgis.com/labs/design/create-a-web-map/) or create a [Web Scene in 3D](https://developers.arcgis.com/labs/design/create-a-web-scene/) 
 
 2. [Style a Web Map](https://developers.arcgis.com/labs/design/style-a-web-map/) 
 
-3. [Configure a Popup](https://developers.arcgis.com/labs/design/configure-pop-ups/)
+3. *[Configure a Popup](https://developers.arcgis.com/labs/design/configure-pop-ups/)
  
 4. [Style Layers with Smart Mapping](https://developers.arcgis.com/labs/design/style-your-layers-with-smart-mapping/)
 
@@ -51,9 +51,9 @@ Learning to create web maps with great cartography is one of the most important 
 One of the easiest ways to build an ArcGIS map app is to start with a web map, but you can also use the various
 ArcGIS APIs and SDKs to build applications from templates or from scratch.
 
-1. [Add a Layer](https://developers.arcgis.com/labs/develop/javascript/create-a-2d-map-with-a-layer/)
+1. *[Add a Web Map](https://developers.arcgis.com/labs/develop/javascript/display-a-web-map/)
 
-2. [Add a Web Map](https://developers.arcgis.com/labs/develop/javascript/display-a-web-map/)
+2. [Add a Layer](https://developers.arcgis.com/labs/develop/javascript/create-a-2d-map-with-a-layer/)
 
 3. [Query a Feature Layer](https://developers.arcgis.com/labs/develop/javascript/query-a-feature-layer/)
 
@@ -61,9 +61,8 @@ ArcGIS APIs and SDKs to build applications from templates or from scratch.
 
 5. [Configure a Popup](https://developers.arcgis.com/labs/develop/javascript/configure-a-popup/)
 
-
-5. Coding Challenges
-  * Calcite Maps ??? (insert jsbin here, yo)
+6. Coding Challenges
+  * *[Calcite Maps/Bootstrap](https://codepen.io/alaframboise/pen/dVKEmg)
  
   * Use the ArcGIS REST API to [Query a FeatureLayer](https://developers.arcgis.com/labs/develop/rest/query-a-feature-layer/)
 
