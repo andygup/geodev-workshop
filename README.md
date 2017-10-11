@@ -18,9 +18,9 @@ This repository contains a series of short developer labs.
     Credits Expire: 3/25/18
 ````
 
-3. Download and install Slack: [https://slack.com/downloads/](https://slack.com/downloads/)
-    * Sign up for our slack channel: ???
-    * Once you create an account sign into the slack client.
+3. Join our [GeoDev Slack Channel](https://join.slack.com/t/co-geodev-workshop/shared_invite/enQtMjUxOTA1Mzc5OTU5LWQzNThiYTMzMzYwYmY0MzgxMGI4MTBkNGY1MGNmNjIxMWJjN2Q4NmEzMWNmNzcxOGY1NWY2ZTgwYjZhMmEwODA)
+
+   * Optional download the slack client [https://slack.com/downloads/](https://slack.com/downloads/)
 
 ## Part 1 - Data
 Creating and importing data interactively is a fast and effective way to prepare data for both prototype and production app development.
