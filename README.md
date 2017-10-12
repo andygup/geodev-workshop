@@ -62,14 +62,10 @@ ArcGIS APIs and SDKs to build applications from templates or from scratch.
 5. [Configure a Popup](https://developers.arcgis.com/labs/develop/javascript/configure-a-popup/)
 
 6. Coding Challenges
-  * *[Calcite Maps/Bootstrap](https://codepen.io/alaframboise/pen/dVKEmg)
+  *  *[Calcite Maps/Bootstrap](https://github.com/Esri/calcite-maps) [Solution](https://codepen.io/alaframboise/pen/dVKEmg)
  
   * Use the ArcGIS REST API to [Query a FeatureLayer](https://developers.arcgis.com/labs/develop/rest/query-a-feature-layer/)
-
-  * Use the ArcGIS REST API  to [Add, Edit and Remove Features](https://developers.arcgis.com/labs/develop/rest/add-edit-and-remove-features/)
  
-  * Review the Query capabilities in [REST API documentation](https://resources.arcgis.com/en/help/arcgis-rest-api/#/Query_Feature_Service_Layer/02r3000000r1000000/) and research the details of how the various parameters work. 
-
 ## Licensing
 Copyright 2017 Esri
 
